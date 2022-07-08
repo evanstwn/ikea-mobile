@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IKEA Mobile</string>
+    <string name="ikea_name">IKEA Mobile</string>
+    <string name="detail">Detail</string>
+    <string name="price">Price</string>
+    <string name="mobile">Mobile</string>
+    <string name="name">Evan Setiawan</string>
+    <string name="email">Email: evansetiawan2711@gmail.com</string>
+    <string name="phone">Phone: (+62) 812 3456 789</string>
+    <string name="address">Address: 124 Conch Street, Bikini Bottom, Pacific Ocean</string>
+    <string name="item_name">Name</string>
+    <string name="item_actual_name">Actual Name</string>
+    <string name="item_material_header">Bahan</string>
+    <string name="item_material">Material</string>
+    <string name="item_tips_header">Petunjuk Perawatan</string>
+    <string name="item_tips">Petunjuk</string>
+    <string name="buy">Buy Now!</string>
+    <string name="greetings">Hej,</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
